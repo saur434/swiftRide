@@ -8,7 +8,7 @@
 
 ## Home page
 
-- On the home page, he system provides a secure login functionality for administrators. Additionally, cab enrollment to add new cabs details and driver enrollment to add the new driver details. Cab driver assignment functionality avaliable for the assigning cabs or drivers.
+- On the home page, the system provides a secure login functionality for administrators. Additionally, cab enrollment to add new cabs details and driver enrollment to add the new driver details. Cab driver assignment functionality avaliable for the assigning cabs or drivers.
 <p align="center">
 <img src="Screenshots/s1.jpg" height="440">
 
